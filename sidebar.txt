@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[scp:home|Door43 (scp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-scp|d43-scp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-scp/archive/master.zip|d43-scp.zip]]
+
+**Recent Changes**
+{{changes>ns = scp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/scp|Ethnologue data]]
+
